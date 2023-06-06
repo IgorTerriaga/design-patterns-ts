@@ -6,6 +6,7 @@
       "ESNext",
       "DOM"
     ],
+    "sourceMap": true,
     "outDir": "./dist",
     "rootDir": "./src",
     "removeComments": true,
